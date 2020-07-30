@@ -6,6 +6,7 @@
     "axios": "^0.18.1",
     "express": "^4.17.1",
     "express-favicon": "^2.0.1",
+    "gh-pages": "^3.1.0",
     "path": "^0.12.7",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
@@ -13,7 +14,7 @@
     "semantic-ui-css": "^2.4.1",
     "semantic-ui-react": "^0.85.0"
   },
-  "homepage": "https://AleksandrKalinin.github.io/weather-monitoring",  
+  "homepage": "https://AleksandrKalinin.github.io/weather-monitoring",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
